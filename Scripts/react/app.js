@@ -1,1 +1,1 @@
-a
+﻿const x = "this is a new feature of es6";
